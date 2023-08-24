@@ -2,7 +2,7 @@
 PINECONE_API_KEY: 0190f0bb-65a9-4340-abdc-24e15b1ea6f1
 PINECONE_ENVIRONMENT: https://wiltpine-61855a4.svc.us-west1-gcp-free.pinecone.io
 
-OPENAI_API_KEY: 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
+OPENAI_API_KEY: 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
 PALM_API_KEY: YOUR_PALM_API_KEY
 
 # For locally hosted LLMs comment out the next line and uncomment the one after
